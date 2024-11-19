@@ -4,7 +4,7 @@ Retrieves relevant information about all Microsoft Connected Cache for Enterpris
 
 ## Versions
 
-### [2023-05-01-preview](/Resources/mgmt-plane/L3N1YnNjcmlwdGlvbnMve30vcHJvdmlkZXJzL21pY3Jvc29mdC5jb25uZWN0ZWRjYWNoZS9lbnRlcnByaXNlbWNjY3VzdG9tZXJz/2023-05-01-preview.xml) **Stable**
+### [2023-05-01-preview](/Resources/mgmt-plane/L3N1YnNjcmlwdGlvbnMve30vcHJvdmlkZXJzL21pY3Jvc29mdC5jb25uZWN0ZWRjYWNoZS9lbnRlcnByaXNlbWNjY3VzdG9tZXJz/2023-05-01-preview.xml) **Preview**
 
 <!-- mgmt-plane /subscriptions/{}/providers/microsoft.connectedcache/enterprisemcccustomers 2023-05-01-preview -->
 <!-- mgmt-plane /subscriptions/{}/resourcegroups/{}/providers/microsoft.connectedcache/enterprisemcccustomers 2023-05-01-preview -->
